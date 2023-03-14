@@ -1,0 +1,8 @@
+@article{REPO-112,
+    author = "Yue, Caitong and Suganthan, P.N. and Liang, Jing and Qu, Boyang and Yu, Kunjie and Zhu, Yongsheng and Yan, Li",
+    journal = "Swarm and Evolutionary Computation",
+    pages = "100849",
+    title = "{Differential Evolution using Improved Crowding Distance for Multimodal Multiobjective Optimization}",
+    volume = "62",
+    year = "2021"
+}
